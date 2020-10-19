@@ -1,0 +1,64 @@
+nav{
+text-align:right;
+padding-top:20px;
+padding-left:25px;	
+word-spacing:55px;		
+}
+
+img{
+width:1100px;
+height:300px;
+}
+
+p{
+text-align:justify;
+width:1100px;
+}
+
+a{
+text-decoration:none;
+margin-left:20px;
+}
+
+.fa {  
+    width: 10px;
+    padding: 10px;
+    font-size: 25px;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    border-radius: 50%; 
+  }
+
+  .fa:hover {
+      opacity: 0.7;
+  }
+
+  .fa-facebook {
+    background: #3B5998;
+  }
+
+  .fa-instagram {
+    background: #8a3ab9;
+  }
+
+  .fa-github {
+    background: #000000;
+  }
+
+  .fa-twitter {
+    background: #55ACEE;
+  }
+
+  .fa-youtube-play{
+    background: yellowgreen;
+  }
+
+  .fa-envelope
+  {
+    background: red;
+  }
+
+  .fa-phone{
+      background: tomato;
+  }

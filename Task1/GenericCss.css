@@ -1,0 +1,20 @@
+﻿nav{
+text-align:right;
+padding-top:20px;
+padding-left:25px;	
+word-spacing:55px;		
+}
+
+
+body {
+background-image: url(Imgs/7.jpeg);
+background-repeat:no-repeat;
+background-size: cover;
+}
+
+a{
+    text-decoration:none;
+    margin-left:20px;
+    }
+    
+
